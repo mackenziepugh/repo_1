@@ -2,6 +2,6 @@
 int main()
 {
 std::cout << "MacKenzie Pugh" <<
-std:: endl;
+std:: endl; 
 return 0;
 } 
