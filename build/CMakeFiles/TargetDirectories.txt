@@ -1,0 +1,3 @@
+/Users/mackenziepugh/Desktop/repo_1/build/CMakeFiles/Quiz1.dir
+/Users/mackenziepugh/Desktop/repo_1/build/CMakeFiles/edit_cache.dir
+/Users/mackenziepugh/Desktop/repo_1/build/CMakeFiles/rebuild_cache.dir

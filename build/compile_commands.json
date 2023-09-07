@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/mackenziepugh/Desktop/repo_1/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/Quiz1.dir/main.cpp.o -c /Users/mackenziepugh/Desktop/repo_1/main.cpp",
+  "file": "/Users/mackenziepugh/Desktop/repo_1/main.cpp",
+  "output": "CMakeFiles/Quiz1.dir/main.cpp.o"
+}
+]
